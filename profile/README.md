@@ -1,6 +1,7 @@
 # xParametric 
+![](https://4164056959-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FHOiMW1aft7F1nvp4BJYl%2Fuploads%2FjSKqlz2PSZ6z6cI2JLlR%2FBeige%20and%20Black%20Feminine%20Aesthetic%20Name%20Twitter%20Header%20(5).png?alt=media&token=810c2919-2bdf-4423-b573-117386fa48e3)
 
-Welcome to the GitHub repository of **xParametric**, a decentralized climate prediction market that revolutionizes the way we speculate on, transfer, and invest in climate risks. With a transparent and secure platform, xParametric not only offers a unique opportunity to hedge against or capitalize on shifting climate trends but also serves as a hub for raising climate awareness and collecting valuable data reflecting public sentiment around climate trends.. 
+Welcome to the GitHub repository of **xParametric**, a decentralized climate prediction market that revolutionizes the way we speculate on, transfer, and invest in climate risks. With a transparent and secure platform, xParametric not only offers a unique opportunity to hedge against or capitalize on shifting climate trends but also serves as a hub for raising climate awareness and collecting valuable data reflecting public sentiment around climate trends.
 <!---
 ## About Us
 
