@@ -44,4 +44,4 @@ All projects and scripts in this repository are released under the [MIT license]
 --->
 ---
 
-**We are a passionate and climate-conscious team that has joined forces to fight climate changed by building on ReFi.**
+**We are a passionate and climate-conscious team that has joined forces to fight climate change by building on ReFi.**
