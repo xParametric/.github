@@ -1,6 +1,6 @@
 # xParametric 
 
-Welcome to the GitHub repository of **xParametric**, an innovative organization specializing in the insurance market. Our repository houses a diverse set of tools, applications, and projects that aim to transform and optimize the insurance industry using technology and advanced analytics. 
+Welcome to the GitHub repository of **xParametric**, a decentralized climate prediction market that revolutionizes the way we speculate on, transfer, and invest in climate risks. With a transparent and secure platform, xParametric not only offers a unique opportunity to hedge against or capitalize on shifting climate trends but also serves as a hub for raising climate awareness and collecting valuable data reflecting public sentiment around climate trends.. 
 <!---
 ## About Us
 
@@ -44,4 +44,4 @@ All projects and scripts in this repository are released under the [MIT license]
 --->
 ---
 
-**Join us on this journey to revolutionize the insurance industry!**
+**We are a passionate and climate-conscious team that has joined forces to fight climate changed by building on ReFi.**
